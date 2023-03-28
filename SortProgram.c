@@ -15,7 +15,7 @@ void BubbleSort(int *arr, int n)
                 arr[j + 1] = temp;
             }
         }
-    }
+    }  
 }
 
 //插入排序函数

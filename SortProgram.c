@@ -136,7 +136,6 @@ int main()
     // SelectionSort(intarray,n);
     QuickSort(intarray, 0, n - 1);
     printf("sort print\n");
-printf("sort print\n");
     for (i = 0; i < n; i++)
     {
         printf("%d", intarray[i]);
